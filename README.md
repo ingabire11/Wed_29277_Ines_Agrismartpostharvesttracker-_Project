@@ -60,23 +60,10 @@ Basic knowledge of SQL/PL/SQL
 LINKS TO DOCUMENTATION
 <img width="721" height="1091" alt="ERD of AgriSmartPostHarvestTracker" src="https://github.com/user-attachments/assets/2a609d9f-1964-400a-bb07-5d87d54c77d7" />
 <img width="1536" height="1024" alt="bpmn of AgriSmartPostHarvestTracker" src="https://github.com/user-attachments/assets/ef2ebb23-dec7-4681-91ad-4e6d5e00dbb9" />
-https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker
-_Project/blob/f4c3793a1b7756b05a719fc1f82362548dbf91b5/Documentation/AgriSmart_Data_Dictionary.md
-https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker
-_Project/tree/7009032599cf8ef1a5c48b4dfbfbc323911c95ba/queries
-https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker
-_Project/tree/a9fdec3079cd37f8111057ba1201770318526f50/procedure%20screenshot
-https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker
-_Project/tree/a9fdec3079cd37f8111057ba1201770318526f50/screenshots
-https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker
-_Project/tree/a9fdec3079cd37f8111057ba1201770318526f50/trigger%20screenshoot
-https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker
-_Project/tree/1ab7fff210f7ab330024c0f3841108e2ff77da52/analyticalprocedure
-https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker
-_Project/tree/1ab7fff210f7ab330024c0f3841108e2ff77da52/audit%20test%20screenshoots
-https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker
-_Project/tree/1ab7fff210f7ab330024c0f3841108e2ff77da52/package%20screenshoot
+https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker-_Project/tree/1ab7fff210f7ab330024c0f3841108e2ff77da52/audit%20test%20screenshoots
 
+https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker-_Project/tree/1ab7fff210f7ab330024c0f3841108e2ff77da52/analyticalprocedure
+https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker-_Project/tree/1ab7fff210f7ab330024c0f3841108e2ff77da52/package%20screenshoot
 
 
 
