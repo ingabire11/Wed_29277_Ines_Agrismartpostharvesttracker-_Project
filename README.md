@@ -64,6 +64,8 @@ https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker-_Projec
 
 https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker-_Project/tree/1ab7fff210f7ab330024c0f3841108e2ff77da52/analyticalprocedure
 https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker-_Project/tree/1ab7fff210f7ab330024c0f3841108e2ff77da52/package%20screenshoot
+https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker-_Project/tree/0ac6b5df2ba58329aea59b6dcd5a032680c6d789/Retrieval%20screenshot
+https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker-_Project/tree/0ac6b5df2ba58329aea59b6dcd5a032680c6d789/trigger%20screenshoot
 
 
 
