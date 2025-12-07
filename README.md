@@ -61,6 +61,8 @@ LINKS TO DOCUMENTATION
 <img width="721" height="1091" alt="ERD of AgriSmartPostHarvestTracker" src="https://github.com/user-attachments/assets/2a609d9f-1964-400a-bb07-5d87d54c77d7" />
 <img width="1536" height="1024" alt="bpmn of AgriSmartPostHarvestTracker" src="https://github.com/user-attachments/assets/ef2ebb23-dec7-4681-91ad-4e6d5e00dbb9" />
 https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker-_Project/blob/f4c3793a1b7756b05a719fc1f82362548dbf91b5/Documentation/AgriSmart_Data_Dictionary.md
+https://github.com/ingabire11/Wed_29277_Ines_Agrismartpostharvesttracker-_Project/tree/7009032599cf8ef1a5c48b4dfbfbc323911c95ba/queries
+
 
 
 
